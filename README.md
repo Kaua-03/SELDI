@@ -3,11 +3,12 @@
 Conteudo da dsiciplina Sistemas Eletrônicos Digitais - SELDI
 
 Exemplo:
-~~~
+
+
 Alinhado a esquerda | Centralizado | Alinhado a direita
 :--------- | :------: | -------:
 Exemplo | Exemplo | Exemplo
-~~~
+
 
 Learning Center:
 
